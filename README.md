@@ -29,5 +29,5 @@ This project is a location-based social audio web application where users can re
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/location-audio-app.git
-cd location-audio-app
+git clone https://github.com/rodeok/location_based_audio
+cd location_based_audio
